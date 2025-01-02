@@ -28,7 +28,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Fox Head\""
+										"minecraft:item_name": "\"狐狸的头\""
 									}
 								}
 							],
@@ -43,11 +43,11 @@
 								{
 									"condition": "random_chance_with_enchanted_bonus",
 									"enchantment": "minecraft:looting",
-									"unenchanted_chance": 0.1,
+									"unenchanted_chance": 0.01,
 									"enchanted_chance": {
 										"type": "minecraft:linear",
-										"base": 0.104,
-										"per_level_above_first": 0.004
+										"base": 0.0104,
+										"per_level_above_first": 0.0004
 									}
 								}
 							]
@@ -68,7 +68,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Snow Fox Head\""
+										"minecraft:item_name": "\"雪狐的头\""
 									}
 								}
 							],
@@ -83,11 +83,11 @@
 								{
 									"condition": "random_chance_with_enchanted_bonus",
 									"enchantment": "minecraft:looting",
-									"unenchanted_chance": 0.2,
+									"unenchanted_chance": 0.02,
 									"enchanted_chance": {
 										"type": "minecraft:linear",
-										"base": 0.204,
-										"per_level_above_first": 0.004
+										"base": 0.0204,
+										"per_level_above_first": 0.0004
 									}
 								}
 							]

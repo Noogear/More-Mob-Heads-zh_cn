@@ -13,11 +13,11 @@
 						{
 							"condition": "random_chance_with_enchanted_bonus",
 							"enchantment": "minecraft:looting",
-							"unenchanted_chance": 0.25,
+							"unenchanted_chance": 0.025,
 							"enchanted_chance": {
 								"type": "minecraft:linear",
-								"base": 0.27,
-								"per_level_above_first": 0.02
+								"base": 0.027,
+								"per_level_above_first": 0.002
 							}
 						}
 					],
@@ -38,7 +38,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Red Parrot Head\""
+										"minecraft:item_name": "\"红色鹦鹉的头\""
 									}
 								}
 							],
@@ -68,7 +68,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Blue Parrot Head\""
+										"minecraft:item_name": "\"蓝色鹦鹉的头\""
 									}
 								}
 							],
@@ -98,7 +98,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Green Parrot Head\""
+										"minecraft:item_name": "\"绿色鹦鹉的头\""
 									}
 								}
 							],
@@ -128,7 +128,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Light Blue Parrot Head\""
+										"minecraft:item_name": "\"淡蓝色鹦鹉的头\""
 									}
 								}
 							],
@@ -158,7 +158,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Gray Parrot Head\""
+										"minecraft:item_name": "\"灰色鹦鹉的头\""
 									}
 								}
 							],

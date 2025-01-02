@@ -13,11 +13,11 @@
 						{
 							"condition": "random_chance_with_enchanted_bonus",
 							"enchantment": "minecraft:looting",
-							"unenchanted_chance": 0.27,
+							"unenchanted_chance": 0.027,
 							"enchanted_chance": {
 								"type": "minecraft:linear",
-								"base": 0.28,
-								"per_level_above_first": 0.01
+								"base": 0.028,
+								"per_level_above_first": 0.001
 							}
 						}
 					],
@@ -38,7 +38,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"White Horse Head\""
+										"minecraft:item_name": "\"白色马头\""
 									}
 								}
 							],
@@ -101,7 +101,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Creamy Horse Head\""
+										"minecraft:item_name": "\"淡栗色马头\""
 									}
 								}
 							],
@@ -164,7 +164,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Chestnut Horse Head\""
+										"minecraft:item_name": "\"深枣红色马头\""
 									}
 								}
 							],
@@ -227,7 +227,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Brown Horse Head\""
+										"minecraft:item_name": "\"褐色马头\""
 									}
 								}
 							],
@@ -290,7 +290,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Black Horse Head\""
+										"minecraft:item_name": "\"黑色马头\""
 									}
 								}
 							],
@@ -353,7 +353,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Gray Horse Head\""
+										"minecraft:item_name": "\"灰色马头\""
 									}
 								}
 							],
@@ -416,7 +416,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Dark Brown Horse Head\""
+										"minecraft:item_name": "\"深褐色马头\""
 									}
 								}
 							],

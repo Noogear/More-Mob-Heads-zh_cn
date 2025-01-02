@@ -13,11 +13,11 @@
 						{
 							"condition": "random_chance_with_enchanted_bonus",
 							"enchantment": "minecraft:looting",
-							"unenchanted_chance": 0.24,
+							"unenchanted_chance": 0.024,
 							"enchanted_chance": {
 								"type": "minecraft:linear",
-								"base": 0.26,
-								"per_level_above_first": 0.02
+								"base": 0.026,
+								"per_level_above_first": 0.002
 							}
 						}
 					],
@@ -38,7 +38,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Creamy Llama Head\""
+										"minecraft:item_name": "\"沙褐色羊驼的头\""
 									}
 								}
 							],
@@ -68,7 +68,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"White Llama Head\""
+										"minecraft:item_name": "\"白色羊驼的头\""
 									}
 								}
 							],
@@ -98,7 +98,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Brown Llama Head\""
+										"minecraft:item_name": "\"棕色羊驼的头\""
 									}
 								}
 							],
@@ -128,7 +128,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Gray Llama Head\""
+										"minecraft:item_name": "\"灰色羊驼的头\""
 									}
 								}
 							],

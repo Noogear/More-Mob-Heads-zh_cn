@@ -21,7 +21,7 @@
 										}
 									]
 								},
-								"minecraft:item_name": "\"Drowned Head\""
+								"minecraft:item_name": "\"溺尸的头\""
 							}
 						}
 					]
@@ -34,11 +34,11 @@
 				{
 					"condition": "random_chance_with_enchanted_bonus",
 					"enchantment": "minecraft:looting",
-					"unenchanted_chance": 0.05,
+					"unenchanted_chance": 0.005,
 					"enchanted_chance": {
 						"type": "minecraft:linear",
-						"base": 0.07,
-						"per_level_above_first": 0.02
+						"base": 0.007,
+						"per_level_above_first": 0.002
 					}
 				}
 			]

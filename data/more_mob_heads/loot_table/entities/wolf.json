@@ -21,11 +21,11 @@
 										{
 											"condition": "random_chance_with_enchanted_bonus",
 											"enchantment": "minecraft:looting",
-											"unenchanted_chance": 0.2,
+											"unenchanted_chance": 0.02,
 											"enchanted_chance": {
 												"type": "minecraft:linear",
-												"base": 0.21,
-												"per_level_above_first": 0.01
+												"base": 0.021,
+												"per_level_above_first": 0.001
 											}
 										}
 									],
@@ -47,7 +47,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Ashen Wolf Head\""
+														"minecraft:item_name": "\"灰狼的头\""
 													}
 												}
 											],
@@ -78,7 +78,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Angry Ashen Wolf Head\""
+														"minecraft:item_name": "\"愤怒的灰狼头\""
 													}
 												}
 											],
@@ -100,11 +100,11 @@
 										{
 											"condition": "random_chance_with_enchanted_bonus",
 											"enchantment": "minecraft:looting",
-											"unenchanted_chance": 0.2,
+											"unenchanted_chance": 0.02,
 											"enchanted_chance": {
 												"type": "minecraft:linear",
-												"base": 0.21,
-												"per_level_above_first": 0.01
+												"base": 0.021,
+												"per_level_above_first": 0.001
 											}
 										}
 									],
@@ -126,7 +126,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Black Wolf Head\""
+														"minecraft:item_name": "\"黑狼的头\""
 													}
 												}
 											],
@@ -157,7 +157,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Angry Black Wolf Head\""
+														"minecraft:item_name": "\"愤怒的黑狼头\""
 													}
 												}
 											],
@@ -179,11 +179,11 @@
 										{
 											"condition": "random_chance_with_enchanted_bonus",
 											"enchantment": "minecraft:looting",
-											"unenchanted_chance": 0.2,
+											"unenchanted_chance": 0.02,
 											"enchanted_chance": {
 												"type": "minecraft:linear",
-												"base": 0.21,
-												"per_level_above_first": 0.01
+												"base": 0.021,
+												"per_level_above_first": 0.001
 											}
 										}
 									],
@@ -205,7 +205,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Chestnut Wolf Head\""
+														"minecraft:item_name": "\"栗色狼的头\""
 													}
 												}
 											],
@@ -236,7 +236,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Angry Chestnut Wolf Head\""
+														"minecraft:item_name": "\"愤怒的栗色狼头\""
 													}
 												}
 											],
@@ -258,11 +258,11 @@
 										{
 											"condition": "random_chance_with_enchanted_bonus",
 											"enchantment": "minecraft:looting",
-											"unenchanted_chance": 0.2,
+											"unenchanted_chance": 0.02,
 											"enchanted_chance": {
 												"type": "minecraft:linear",
-												"base": 0.21,
-												"per_level_above_first": 0.01
+												"base": 0.021,
+												"per_level_above_first": 0.001
 											}
 										}
 									],
@@ -284,7 +284,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Pale Wolf Head\""
+														"minecraft:item_name": "\"灰狼的头\""
 													}
 												}
 											],
@@ -315,7 +315,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Angry Pale Wolf Head\""
+														"minecraft:item_name": "\"愤怒的灰狼头\""
 													}
 												}
 											],
@@ -337,11 +337,11 @@
 										{
 											"condition": "random_chance_with_enchanted_bonus",
 											"enchantment": "minecraft:looting",
-											"unenchanted_chance": 0.2,
+											"unenchanted_chance": 0.02,
 											"enchanted_chance": {
 												"type": "minecraft:linear",
-												"base": 0.21,
-												"per_level_above_first": 0.01
+												"base": 0.021,
+												"per_level_above_first": 0.001
 											}
 										}
 									],
@@ -363,7 +363,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Rusty Wolf Head\""
+														"minecraft:item_name": "\"赭红狼的头\""
 													}
 												}
 											],
@@ -394,7 +394,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Angry Rusty Wolf Head\""
+														"minecraft:item_name": "\"愤怒的赭红狼头\""
 													}
 												}
 											],
@@ -416,11 +416,11 @@
 										{
 											"condition": "random_chance_with_enchanted_bonus",
 											"enchantment": "minecraft:looting",
-											"unenchanted_chance": 0.5,
+											"unenchanted_chance": 0.05,
 											"enchanted_chance": {
 												"type": "minecraft:linear",
-												"base": 0.6,
-												"per_level_above_first": 0.1
+												"base": 0.06,
+												"per_level_above_first": 0.01
 											}
 										}
 									],
@@ -442,7 +442,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Snowy Wolf Head\""
+														"minecraft:item_name": "\"雪狼的头\""
 													}
 												}
 											],
@@ -473,7 +473,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Angry Snowy Wolf Head\""
+														"minecraft:item_name": "\"愤怒的雪狼头\""
 													}
 												}
 											],
@@ -495,11 +495,11 @@
 										{
 											"condition": "random_chance_with_enchanted_bonus",
 											"enchantment": "minecraft:looting",
-											"unenchanted_chance": 0.2,
+											"unenchanted_chance": 0.02,
 											"enchanted_chance": {
 												"type": "minecraft:linear",
-												"base": 0.21,
-												"per_level_above_first": 0.01
+												"base": 0.021,
+												"per_level_above_first": 0.001
 											}
 										}
 									],
@@ -521,7 +521,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Spotty Wolf Head\""
+														"minecraft:item_name": "\"斑点狼的头\""
 													}
 												}
 											],
@@ -552,7 +552,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Angry Spotty Wolf Head\""
+														"minecraft:item_name": "\"愤怒的斑点狼头\""
 													}
 												}
 											],
@@ -574,11 +574,11 @@
 										{
 											"condition": "random_chance_with_enchanted_bonus",
 											"enchantment": "minecraft:looting",
-											"unenchanted_chance": 0.2,
+											"unenchanted_chance": 0.02,
 											"enchanted_chance": {
 												"type": "minecraft:linear",
-												"base": 0.21,
-												"per_level_above_first": 0.01
+												"base": 0.021,
+												"per_level_above_first": 0.001
 											}
 										}
 									],
@@ -600,7 +600,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Striped Wolf Head\""
+														"minecraft:item_name": "\"条纹狼的头\""
 													}
 												}
 											],
@@ -631,7 +631,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Angry Striped Wolf Head\""
+														"minecraft:item_name": "\"愤怒的条纹狼头\""
 													}
 												}
 											],
@@ -653,11 +653,11 @@
 										{
 											"condition": "random_chance_with_enchanted_bonus",
 											"enchantment": "minecraft:looting",
-											"unenchanted_chance": 0.2,
+											"unenchanted_chance": 0.02,
 											"enchanted_chance": {
 												"type": "minecraft:linear",
-												"base": 0.21,
-												"per_level_above_first": 0.01
+												"base": 0.021,
+												"per_level_above_first": 0.001
 											}
 										}
 									],
@@ -679,7 +679,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Woods Wolf Head\""
+														"minecraft:item_name": "\"森林狼的头\""
 													}
 												}
 											],
@@ -710,7 +710,7 @@
 																}
 															]
 														},
-														"minecraft:item_name": "\"Angry Woods Wolf Head\""
+														"minecraft:item_name": "\"愤怒的森林狼头\""
 													}
 												}
 											],
@@ -734,11 +734,11 @@
 								{
 									"condition": "random_chance_with_enchanted_bonus",
 									"enchantment": "minecraft:looting",
-									"unenchanted_chance": 0.2,
+									"unenchanted_chance": 0.02,
 									"enchanted_chance": {
 										"type": "minecraft:linear",
-										"base": 0.21,
-										"per_level_above_first": 0.01
+										"base": 0.021,
+										"per_level_above_first": 0.001
 									}
 								}
 							],
@@ -760,7 +760,7 @@
 														}
 													]
 												},
-												"minecraft:item_name": "\"Pale Wolf Head\""
+												"minecraft:item_name": "\"苍狼的头\""
 											}
 										}
 									],
@@ -791,7 +791,7 @@
 														}
 													]
 												},
-												"minecraft:item_name": "\"Angry Pale Wolf Head\""
+												"minecraft:item_name": "\"愤怒的苍狼头\""
 											}
 										}
 									]

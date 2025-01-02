@@ -21,7 +21,7 @@
 										}
 									]
 								},
-								"minecraft:item_name": "\"Enderman Head\""
+								"minecraft:item_name": "\"末影人的头\""
 							}
 						}
 					]
@@ -34,11 +34,11 @@
 				{
 					"condition": "random_chance_with_enchanted_bonus",
 					"enchantment": "minecraft:looting",
-					"unenchanted_chance": 0.005,
+					"unenchanted_chance": 0.0005,
 					"enchanted_chance": {
 						"type": "minecraft:linear",
-						"base": 0.0051,
-						"per_level_above_first": 0.0001
+						"base": 0.00051,
+						"per_level_above_first": 0.00001
 					}
 				}
 			]

@@ -13,11 +13,11 @@
 						{
 							"condition": "random_chance_with_enchanted_bonus",
 							"enchantment": "minecraft:looting",
-							"unenchanted_chance": 0.27,
+							"unenchanted_chance": 0.027,
 							"enchanted_chance": {
 								"type": "minecraft:linear",
-								"base": 0.274,
-								"per_level_above_first": 0.004
+								"base": 0.0274,
+								"per_level_above_first": 0.0004
 							}
 						}
 					],
@@ -38,7 +38,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Aggressive Panda Head\""
+										"minecraft:item_name": "\"好斗熊猫的头\""
 									}
 								}
 							],
@@ -68,7 +68,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Lazy Panda Head\""
+										"minecraft:item_name": "\"慵懒熊猫的头\""
 									}
 								}
 							],
@@ -98,7 +98,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Playful Panda Head\""
+										"minecraft:item_name": "\"顽皮熊猫的头\""
 									}
 								}
 							],
@@ -128,7 +128,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Worried Panda Head\""
+										"minecraft:item_name": "\"忧郁熊猫的头\""
 									}
 								}
 							],
@@ -158,7 +158,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Brown Panda Head\""
+										"minecraft:item_name": "\"棕色熊猫的头\""
 									}
 								}
 							],
@@ -188,7 +188,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Weak Panda Head\""
+										"minecraft:item_name": "\"体弱熊猫的头\""
 									}
 								}
 							],
@@ -218,7 +218,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Panda Head\""
+										"minecraft:item_name": "\"熊猫的头\""
 									}
 								}
 							]

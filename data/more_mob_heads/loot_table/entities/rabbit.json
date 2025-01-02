@@ -25,7 +25,7 @@
                     }
                   ]
                 },
-                "minecraft:item_name": "\"Toast Head\""
+                "minecraft:item_name": "\"小兔Toast的头\""
               }
             }
           ],
@@ -33,11 +33,11 @@
             {
               "condition": "random_chance_with_enchanted_bonus",
               "enchantment": "minecraft:looting",
-              "unenchanted_chance": 0.5,
+              "unenchanted_chance": 0.05,
               "enchanted_chance": {
                 "type": "minecraft:linear",
-                "base": 0.6,
-                "per_level_above_first": 0.05
+                "base": 0.06,
+                "per_level_above_first": 0.005
               }
             }
           ]
@@ -107,7 +107,7 @@
                         }
                       ]
                     },
-                    "minecraft:item_name": "\"Brown Rabbit Head\""
+                    "minecraft:item_name": "\"棕色兔子的头\""
                   }
                 }
               ],
@@ -122,11 +122,11 @@
                 {
                   "condition": "random_chance_with_enchanted_bonus",
                   "enchantment": "minecraft:looting",
-                  "unenchanted_chance": 0.26,
+                  "unenchanted_chance": 0.026,
                   "enchanted_chance": {
                     "type": "minecraft:linear",
-                    "base": 0.31,
-                    "per_level_above_first": 0.05
+                    "base": 0.031,
+                    "per_level_above_first": 0.005
                   }
                 }
               ]
@@ -147,7 +147,7 @@
                         }
                       ]
                     },
-                    "minecraft:item_name": "\"White Rabbit Head\""
+                    "minecraft:item_name": "\"白色兔子的头\""
                   }
                 }
               ],
@@ -162,11 +162,11 @@
                 {
                   "condition": "random_chance_with_enchanted_bonus",
                   "enchantment": "minecraft:looting",
-                  "unenchanted_chance": 0.26,
+                  "unenchanted_chance": 0.026,
                   "enchanted_chance": {
                     "type": "minecraft:linear",
-                    "base": 0.31,
-                    "per_level_above_first": 0.05
+                    "base": 0.031,
+                    "per_level_above_first": 0.005
                   }
                 }
               ]
@@ -187,7 +187,7 @@
                         }
                       ]
                     },
-                    "minecraft:item_name": "\"Black Rabbit Head\""
+                    "minecraft:item_name": "\"黑色兔子的头\""
                   }
                 }
               ],
@@ -202,11 +202,11 @@
                 {
                   "condition": "random_chance_with_enchanted_bonus",
                   "enchantment": "minecraft:looting",
-                  "unenchanted_chance": 0.26,
+                  "unenchanted_chance": 0.026,
                   "enchanted_chance": {
                     "type": "minecraft:linear",
-                    "base": 0.31,
-                    "per_level_above_first": 0.05
+                    "base": 0.031,
+                    "per_level_above_first": 0.005
                   }
                 }
               ]
@@ -227,7 +227,7 @@
                         }
                       ]
                     },
-                    "minecraft:item_name": "\"Black and White Rabbit Head\""
+                    "minecraft:item_name": "\"黑白斑点兔的头\""
                   }
                 }
               ],
@@ -242,11 +242,11 @@
                 {
                   "condition": "random_chance_with_enchanted_bonus",
                   "enchantment": "minecraft:looting",
-                  "unenchanted_chance": 0.26,
+                  "unenchanted_chance": 0.026,
                   "enchanted_chance": {
                     "type": "minecraft:linear",
-                    "base": 0.31,
-                    "per_level_above_first": 0.05
+                    "base": 0.031,
+                    "per_level_above_first": 0.005
                   }
                 }
               ]
@@ -267,7 +267,7 @@
                         }
                       ]
                     },
-                    "minecraft:item_name": "\"Gold Rabbit Head\""
+                    "minecraft:item_name": "\"金色兔子的头\""
                   }
                 }
               ],
@@ -282,11 +282,11 @@
                 {
                   "condition": "random_chance_with_enchanted_bonus",
                   "enchantment": "minecraft:looting",
-                  "unenchanted_chance": 0.26,
+                  "unenchanted_chance": 0.026,
                   "enchanted_chance": {
                     "type": "minecraft:linear",
-                    "base": 0.31,
-                    "per_level_above_first": 0.05
+                    "base": 0.031,
+                    "per_level_above_first": 0.005
                   }
                 }
               ]
@@ -307,7 +307,7 @@
                         }
                       ]
                     },
-                    "minecraft:item_name": "\"Salt and Pepper Rabbit Head\""
+                    "minecraft:item_name": "\"椒盐兔头\""
                   }
                 }
               ],
@@ -322,11 +322,11 @@
                 {
                   "condition": "random_chance_with_enchanted_bonus",
                   "enchantment": "minecraft:looting",
-                  "unenchanted_chance": 0.26,
+                  "unenchanted_chance": 0.026,
                   "enchanted_chance": {
                     "type": "minecraft:linear",
-                    "base": 0.31,
-                    "per_level_above_first": 0.05
+                    "base": 0.031,
+                    "per_level_above_first": 0.005
                   }
                 }
               ]
@@ -347,7 +347,7 @@
                         }
                       ]
                     },
-                    "minecraft:item_name": "\"The Killer Bunny Head\""
+                    "minecraft:item_name": "\"杀手兔的头\""
                   }
                 }
               ],
@@ -362,11 +362,11 @@
                 {
                   "condition": "random_chance_with_enchanted_bonus",
                   "enchantment": "minecraft:looting",
-                  "unenchanted_chance": 0.5,
+                  "unenchanted_chance": 0.05,
                   "enchanted_chance": {
                     "type": "minecraft:linear",
-                    "base": 0.6,
-                    "per_level_above_first": 0.05
+                    "base": 0.06,
+                    "per_level_above_first": 0.005
                   }
                 }
               ]

@@ -21,7 +21,7 @@
 										}
 									]
 								},
-								"minecraft:item_name": "\"Vindicator Head\""
+								"minecraft:item_name": "\"卫道士的头\""
 							}
 						}
 					]
@@ -34,11 +34,11 @@
 				{
 					"condition": "random_chance_with_enchanted_bonus",
 					"enchantment": "minecraft:looting",
-					"unenchanted_chance": 0.05,
+					"unenchanted_chance": 0.005,
 					"enchanted_chance": {
 						"type": "minecraft:linear",
-						"base": 0.065,
-						"per_level_above_first": 0.015
+						"base": 0.0065,
+						"per_level_above_first": 0.0015
 					}
 				}
 			]

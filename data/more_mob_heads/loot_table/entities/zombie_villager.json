@@ -13,11 +13,11 @@
 						{
 							"condition": "random_chance_with_enchanted_bonus",
 							"enchantment": "minecraft:looting",
-							"unenchanted_chance": 0.5,
+							"unenchanted_chance": 0.05,
 							"enchanted_chance": {
 								"type": "minecraft:linear",
-								"base": 0.52,
-								"per_level_above_first": 0.02
+								"base": 0.052,
+								"per_level_above_first": 0.002
 							}
 						}
 					],
@@ -38,7 +38,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Zombie Armorer Head\""
+										"minecraft:item_name": "\"盔甲匠僵尸的头\""
 									}
 								}
 							],
@@ -68,7 +68,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Zombie Butcher Head\""
+										"minecraft:item_name": "\"屠夫僵尸的头\""
 									}
 								}
 							],
@@ -98,7 +98,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Zombie Cartographer Head\""
+										"minecraft:item_name": "\"制图师僵尸的头\""
 									}
 								}
 							],
@@ -128,7 +128,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Zombie Cleric Head\""
+										"minecraft:item_name": "\"牧师僵尸的头\""
 									}
 								}
 							],
@@ -158,7 +158,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Zombie Farmer Head\""
+										"minecraft:item_name": "\"农民僵尸的头\""
 									}
 								}
 							],
@@ -188,7 +188,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Zombie Fisherman Head\""
+										"minecraft:item_name": "\"渔夫僵尸的头\""
 									}
 								}
 							],
@@ -218,7 +218,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Zombie Fletcher Head\""
+										"minecraft:item_name": "\"制箭师僵尸的头\""
 									}
 								}
 							],
@@ -248,7 +248,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Zombie Leatherworker Head\""
+										"minecraft:item_name": "\"皮匠僵尸的头\""
 									}
 								}
 							],
@@ -278,7 +278,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Zombie Librarian Head\""
+										"minecraft:item_name": "\"图书管理员僵尸的头\""
 									}
 								}
 							],
@@ -308,7 +308,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Zombie Mason Head\""
+										"minecraft:item_name": "\"石匠僵尸的头\""
 									}
 								}
 							],
@@ -338,7 +338,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Zombie Nitwit Head\""
+										"minecraft:item_name": "\"傻子僵尸的头\""
 									}
 								}
 							],
@@ -368,7 +368,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Zombie Villager Head\""
+										"minecraft:item_name": "\"僵尸村民的头\""
 									}
 								}
 							],
@@ -398,7 +398,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Zombie Shepherd Head\""
+										"minecraft:item_name": "\"牧羊人僵尸的头\""
 									}
 								}
 							],
@@ -428,7 +428,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Zombie Toolsmith Head\""
+										"minecraft:item_name": "\"工具匠僵尸的头\""
 									}
 								}
 							],
@@ -458,7 +458,7 @@
 												}
 											]
 										},
-										"minecraft:item_name": "\"Zombie Weaponsmith Head\""
+										"minecraft:item_name": "\"武器匠僵尸的头\""
 									}
 								}
 							],

@@ -21,7 +21,7 @@
 										}
 									]
 								},
-								"minecraft:item_name": "\"jeb_ Sheep Head\""
+								"minecraft:item_name": "\"彩色羊头\""
 							}
 						}
 					]
@@ -53,11 +53,11 @@
 				{
 					"condition": "random_chance_with_enchanted_bonus",
 					"enchantment": "minecraft:looting",
-					"unenchanted_chance": 0.1,
+					"unenchanted_chance": 0.01,
 					"enchanted_chance": {
 						"type": "minecraft:linear",
-						"base": 0.15,
-						"per_level_above_first": 0.05
+						"base": 0.015,
+						"per_level_above_first": 0.005
 					}
 				}
 			]
