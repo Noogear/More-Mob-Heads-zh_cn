@@ -1,4 +1,4 @@
 <h1>更多生物头颅</h1>
 <p>个人汉化修改版本，因为服务器使用添加战利品的数据包不会有任何延迟，因此选择使用该数据包来让玩家获得各种各样的生物头颅。</p>
-个人修改部分：所有掉落概率下调十倍
-数据包来自：https://vanillatweaks.net/picker/datapacks/
+<p>个人修改部分：所有掉落概率下调十倍</p>
+<p>数据包来自：https://vanillatweaks.net/picker/datapacks/</p>
